@@ -3,6 +3,7 @@
 This repo contains the necessary Arduino code to run a temperature monitoring project using Adafruit hardware and IoT interface.
 
 
+
 # Hardware
 
 This project uses hardware used mostly from Adafruit.com.
@@ -18,6 +19,7 @@ This project uses hardware used mostly from Adafruit.com.
 
 
 <img src="https://github.com/jsafavi/Temp-Monitor-with-data-logger-/blob/readme-edit/unnamed.jpg" width="900">
+
 
 
 # Setup 
