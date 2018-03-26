@@ -16,4 +16,4 @@ This project uses hardware used mostly from Adafruit.com.
 -MCP9808 High Accuracy I2C Temperature Sensor Breakout Board
 [https://www.adafruit.com/product/1782]
 
-![picture](img/unnamed.jpg)
+![yoyoyoyoy](img/unnamed.jpg)
