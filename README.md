@@ -17,7 +17,7 @@ This project uses hardware used mostly from Adafruit.com.
 [https://www.adafruit.com/product/1782]
 
 
-<img src="https://github.com/jsafavi/Temp-Monitor-with-data-logger-/blob/readme-edit/unnamed.jpg" width="750">
+<img src="https://github.com/jsafavi/Temp-Monitor-with-data-logger-/blob/readme-edit/unnamed.jpg" width="1000">
 
 
 # Setup 
