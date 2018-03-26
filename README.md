@@ -18,3 +18,9 @@ This project uses hardware used mostly from Adafruit.com.
 
 
 <img src="https://github.com/jsafavi/Temp-Monitor-with-data-logger-/blob/readme-edit/unnamed.jpg" width="500">
+
+
+# Setup 
+
+As it can be seen in the image above, the sensor is connected to default I2C pins of Feather board (pins 4 and 5). Power and ground are also provided to the sensor using 3.3v and GND pins of the board. 
+The logger/RTC wing is mounted on top of the feather board, with a CR1220 battery for the RTC to work properly.
