@@ -17,3 +17,5 @@ This project uses hardware used mostly from Adafruit.com.
 [https://www.adafruit.com/product/1782]
 
 ![Alt text](img/unnamed.jpg)
+
+![something witty](img/ILTQq.png)
