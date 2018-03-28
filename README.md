@@ -35,6 +35,7 @@ The temperature sensor can be seen to be inside of a plastic container as a prot
 This projects used Adafruit IoT (https://io.adafruit.com/) as a dashboard for the the data sent from the baord. After creating an account, proper feeds need to be created for the data to be streamed. These feeds should have the same name as they have inside the Arduino sketch. Also dashboards can be made on Adafruit io for better understanding and analysis of the data (such as graphs, gauges ...).
 
 
+<img src="https://github.com/jsafavi/Temp-Monitor-with-data-logger-/blob/readme-edit/io%20interface.JPG" width="300"> 
 
 
 
